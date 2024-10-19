@@ -427,7 +427,6 @@ tl
 		},
 		y: 0
 	})
-	
 	.to("body", {
 		scrollTrigger: {
 			trigger: "body",
